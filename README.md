@@ -1,16 +1,50 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**sonmbol/sonmbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Ahmed, a passionate iOS developer on a mission to craft innovative applications that redefine the boundaries of technology.
 
-Here are some ideas to get you started:
+- 🔭 I thrive on creating cutting-edge iOS applications that embrace clean code practices and modern architectural patterns.
+- 👯 My focus is on integrating advanced features into my projects, particularly leveraging the power of Machine Learning and ARKit to deliver exceptional user experiences.
+- 🌱 I am committed to staying updated with the latest advancements in technology, continuously enhancing my skills in iOS development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💻 Tech Stack
+
+Here’s a glimpse of the technologies I work with:
+
+!CSS3
+!HTML5
+!JavaScript
+!Objective-C
+!PHP
+!Swift
+!TypeScript
+!AWS
+!Azure
+!Firebase
+!Oracle
+!Express.js
+!Insomnia
+!jQuery
+!NPM
+!NodeJS
+!Nodemon
+!Socket.io
+!Jenkins
+!Nginx
+!MySQL
+!Postgres
+!SQLite
+!Figma
+!NumPy
+!Pandas
+!Python
+!GitHub Actions
+!Bitbucket
+!Git
+!GitHub
+!GitLab
+!Docker
+!Jira
+!Postman
+![Power Bi](https://img.shields.io/badge
