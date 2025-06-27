@@ -1,4 +1,3 @@
-<img width="491" alt="Screenshot 2025-06-27 at 2 27 58 PM" src="https://github.com/user-attachments/assets/d93ee531-15ac-4f8b-b9bc-237f27f4f484" />
 # 💫 About Me
 Hey, I’m Ahmed — a Senior iOS Engineer focused on building fast, reliable apps with clean architecture and sharp UI.  
 Currently working on Xcode tools, server-driven UI, and bridging UIKit to SwiftUI to help teams scale better, I'm also working on Marcos to enhance my code and make it cleaner and more efficient.
