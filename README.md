@@ -17,6 +17,6 @@ Currently working on Xcode tools, server-driven UI, and bridging UIKit to SwiftU
 
 <a href="https://gist.github.com/sonmbol/b5045464e769af26a5447c8917c0c7a1"> <img width="491" alt="Screenshot 2025-06-27 at 2 27 58 PM" src="https://github.com/user-attachments/assets/f2b11601-3b5a-4520-8521-0b03af2830a8" /> </a>
 
-<a href="https://gist.github.com/sonmbol/0e566e4f8b54a899a7551d565f3389a2"> <img width="783" height="193" alt="Screenshot 2026-06-24 at 11 33 01 AM" src="https://github.com/user-attachments/assets/2804eaa0-f2e6-4d8b-91ab-601bfd515033" /> </a>
+<a href="https://gist.github.com/sonmbol/0e566e4f8b54a899a7551d565f3389a2"> <img width="755" height="173" alt="Screenshot 2026-06-24 at 11 35 48 AM" src="https://github.com/user-attachments/assets/5d984180-babe-4f12-b80c-6d8613f3b947" /> </a>
 
 <a href="https://gist.github.com/sonmbol/4905c58e424cb8d2dc509c4136d40605"> <img width="981" alt="Screenshot 2025-06-27 at 2 28 11 PM" src="https://github.com/user-attachments/assets/d9ee2279-1b0a-47ec-a9df-8aab34f21402" /> </a>
